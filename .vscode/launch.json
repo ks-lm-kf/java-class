@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "dianming",
+            "request": "launch",
+            "mainClass": "dianming",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
             "name": "ketang3_7_pta3",
             "request": "launch",
             "mainClass": "ketang3_7_pta3",
