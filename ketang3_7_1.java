@@ -17,6 +17,7 @@ public class ketang3_7_1{
         System.out.println("year="+year);
         System.out.println("nannv="+nv);
         System.out.println("high="+high+"\t"+yn);
+        sc.close();
 //ln代表换行printfln括号内引号外\t表示空格；
     }
 }

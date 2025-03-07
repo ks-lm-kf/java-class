@@ -7,5 +7,6 @@ public class ketang{
         double score=sc.nextDouble();
         System.out.println("name="+name);
         System.out.println("age="+age+",score="+score);
+        sc.close();
     }
 }
