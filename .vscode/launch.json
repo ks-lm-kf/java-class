@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ketang3_7_pta",
+            "request": "launch",
+            "mainClass": "ketang3_7_pta",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
+            "name": "ketang3_7_2",
+            "request": "launch",
+            "mainClass": "ketang3_7_2",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
+            "name": "ketang3_7_1",
+            "request": "launch",
+            "mainClass": "ketang3_7_1",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
             "name": "ketang",
             "request": "launch",
             "mainClass": "ketang",
