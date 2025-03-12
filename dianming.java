@@ -23,7 +23,7 @@ public class dianming {
             currentList = new ArrayList<>(backupList);
             System.out.println("成功加载 " + backupList.size() + " 个学生");
         } catch (IOException e) {
-            System.out.println("错误：找不到淘气鬼名单文件 (" + FILENAME + ")");
+            System.out.println("错误：找不到斯大林的淘气鬼名单文件 (" + FILENAME + ")");
             System.exit(1);
         }
     }
