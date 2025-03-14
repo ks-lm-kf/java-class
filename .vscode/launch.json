@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "class3_14_pta3",
+            "request": "launch",
+            "mainClass": "class3_14_pta3",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
+            "name": "class3_14_pta2",
+            "request": "launch",
+            "mainClass": "class3_14_pta2",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
+            "name": "class3_14_pta1",
+            "request": "launch",
+            "mainClass": "class3_14_pta1",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
             "name": "class3_14_pta",
             "request": "launch",
             "mainClass": "class3_14_pta",
