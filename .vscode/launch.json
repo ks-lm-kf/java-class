@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "class3_19",
+            "request": "launch",
+            "mainClass": "class3_19",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
+            "name": "class3_12_pta",
+            "request": "launch",
+            "mainClass": "class3_12_pta",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
             "name": "class3_14_pta3",
             "request": "launch",
             "mainClass": "class3_14_pta3",
