@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "VehiclTest",
+            "request": "launch",
+            "mainClass": "demo3.VehiclTest",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
+            "name": "PersonTest",
+            "request": "launch",
+            "mainClass": "demo2.PersonTest",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
+            "name": "student_pta",
+            "request": "launch",
+            "mainClass": "student_pta",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
             "name": "StudentTest",
             "request": "launch",
             "mainClass": "demo1.StudentTest",
