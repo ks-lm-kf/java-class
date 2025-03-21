@@ -1,3 +1,4 @@
+
 public class class3_19{
     /*定义变量
      * 类名 对象名=new 类名（）；
