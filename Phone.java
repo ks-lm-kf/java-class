@@ -7,4 +7,16 @@ public class Phone{
     public void playGame(){
         System.out.println("playGame");
     }
+    public void setBrand(String brand){
+        this.brand=brand;
+    }
+    public String getBrand(){
+        return brand;
+    }
+    public void setPrice(double Price){
+        this.Price=Price;
+    }
+    public double getPrice(){
+        return Price;
+    }
 }

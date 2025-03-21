@@ -22,8 +22,8 @@ public class Student{
     public String getName(){
         return name;
     }
-    public void setAge(int age1){
-        this.age=age1;
+    public void setAge(int age){
+        this.age=age;
     }
     public int getAge(){
         return age;
