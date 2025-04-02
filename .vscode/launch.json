@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FinalTest",
+            "request": "launch",
+            "mainClass": "demo7.FinalTest",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
+            "name": "ParentChildTest",
+            "request": "launch",
+            "mainClass": "demo7.ParentChildTest",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
+            "name": "Demo1",
+            "request": "launch",
+            "mainClass": "demo7.Demo1",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
+            "name": "teat",
+            "request": "launch",
+            "mainClass": "demo5.teat",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
             "name": "PolyMorphicTest",
             "request": "launch",
             "mainClass": "demo4.PolyMorphicTest",

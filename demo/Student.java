@@ -6,7 +6,6 @@ public class Student{
     private String name;
     private int age;
     public Student() {
-        //TODO Auto-generated constructor stub
     }
     /*成员方法 
      * 修饰符 返回值类型 方法名 参数列表

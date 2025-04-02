@@ -10,9 +10,11 @@ public class PolyMorphicTest {
             Dog2 d=new Dog2();
             d.bark();
         }
+
     }
 }
 class Animal2{
+    String name;
     public void eat(){
         System.out.println("cccccc");
     }
