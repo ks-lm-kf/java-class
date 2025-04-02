@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PolyMorphicTest",
+            "request": "launch",
+            "mainClass": "demo4.PolyMorphicTest",
+            "projectName": "java_9be17b79"
+        },
+        {
+            "type": "java",
             "name": "VehiclTest",
             "request": "launch",
             "mainClass": "demo3.VehiclTest",

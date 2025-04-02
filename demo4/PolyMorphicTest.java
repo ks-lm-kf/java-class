@@ -1,26 +1,27 @@
 package demo4;
 
 public class PolyMorphicTest {
-    
+    public static void main(String[] age){
+        Animal2 b= new Animal2();
+        b.eat();
+        Animal2 a= new Dog2();
+        a.eat();
+        if(a instanceof Dog2){
+            Dog2 d=new Dog2();
+            d.bark();
+        }
+    }
 }
-class Person{
-    private String name;
-    private int age;
-    public Person(final String name, final int age) {
-        this.name = name;
-        this.age = age;
+class Animal2{
+    public void eat(){
+        System.out.println("cccccc");
     }
-    public String getName() {
-        return name;
+}
+class Dog2 extends Animal2{
+    public void eat(){
+        System.out.println("ccb");
     }
-    public void setName(final String name) {
-        this.name = name;
+    public void bark(){
+        System.out.println("nm");
     }
-    public int getAge() {
-        return age;
-    }
-    public void setAge(final int age) {
-        this.age = age;
-    }
-    
 }
